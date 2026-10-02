@@ -724,11 +724,15 @@ footer { margin-top: 20px; text-align: center; font-family: var(--hand); color: 
   <button class="v-btn v-next" id="vNext" aria-label="Ảnh sau">›</button>
 </div>
 
-<script>
+<script type="module">
 /* =========================================================
    ✏️  SỬA NỘI DUNG Ở ĐÂY
 ========================================================= */
-const DATA = {
+const DATA = await fetch("./data.json?v=" + Date.now(), {
+  cache: "no-store"
+})
+  .then(r => r.ok ? r.json() : null)
+  .catch(() => null) || {
   loiMo: "Có một lá thư dành cho bạn",
   ve: "Celebrating<br>our love",
   ngay: "28 · 06",
