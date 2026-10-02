@@ -1,0 +1,82 @@
+{
+  "video": "",
+  "nhac": "../music/Ed Sheeran - Photograph (Lyrics).mp3",
+  "tenBaiHat": "Photograph – Ed Sheeran",
+  "loiMo": "Có một lá thư dành cho bạn",
+  "ve": "Celebrating\nour love",
+  "ngay": "11/10",
+  "tieuDe": "Our little moments",
+  "phuDe": "những khoảnh khắc mình muốn giữ mãi",
+  "anh": [
+    {
+      "src": "a1-4r3a.webp",
+      "chuThich": ""
+    },
+    {
+      "src": "a2-u8yx.webp",
+      "chuThich": ""
+    },
+    {
+      "src": "a3-vu4r.webp",
+      "chuThich": ""
+    },
+    {
+      "src": "a4-desa.webp",
+      "chuThich": ""
+    },
+    {
+      "src": "a5-ep8g.webp",
+      "chuThich": ""
+    }
+  ],
+  "mayDay": [
+    "m1-gvg8.webp",
+    "m2-kmb2.webp"
+  ],
+  "the1": {
+    "tieuDe": "♡ I LOVE YOU FOREVER! ♡",
+    "anh": "c1-w7zb.webp",
+    "ten": "phg",
+    "ngay": "2005"
+  },
+  "the2": {
+    "tieuDe": "(100%) BEST FRIENDS CLUB",
+    "anh": "c2-2ppr.webp",
+    "ten": "phg",
+    "ngay": "2006"
+  },
+  "loiNhan": "Chào cậu nha",
+  "kyTen": "— yours, always",
+  "_f": {
+    "loiMo": "Có một lá thư dành cho bạn",
+    "ve1": "Celebrating",
+    "ve2": "our love",
+    "ngay": "11/10",
+    "tieuDe": "Our little moments",
+    "phuDe": "những khoảnh khắc mình muốn giữ mãi",
+    "loiNhan": "Chào cậu nha",
+    "kyTen": "— yours, always",
+    "t1_tieuDe": "♡ I LOVE YOU FOREVER! ♡",
+    "t1_ten": "phg",
+    "t1_ngay": "2005",
+    "t2_tieuDe": "(100%) BEST FRIENDS CLUB",
+    "t2_ten": "phg",
+    "t2_ngay": "2006",
+    "c_a1": "",
+    "c_a2": "",
+    "c_a3": "",
+    "c_a4": "",
+    "c_a5": ""
+  },
+  "_p": {
+    "a1": "a1-4r3a.webp",
+    "a2": "a2-u8yx.webp",
+    "a3": "a3-vu4r.webp",
+    "a4": "a4-desa.webp",
+    "a5": "a5-ep8g.webp",
+    "m1": "m1-gvg8.webp",
+    "m2": "m2-kmb2.webp",
+    "c1": "c1-w7zb.webp",
+    "c2": "c2-2ppr.webp"
+  }
+}
